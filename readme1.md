@@ -18,6 +18,6 @@ Since the procurement of the asset and writing the entire HTML code by self.
 
 ## Live link
 
-[Project Link](https://google.com "Netlify")
+[Project Link](https://google.com](https://liveproject3.netlify.app/ "Netlify")
 
 
