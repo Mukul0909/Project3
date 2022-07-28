@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,700;1,400&family=Fredoka+One&family=Nanum+Gothic:wght@700&family=Roboto:wght@500;700;900&display=swap");
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: "Noto Sans", cursive;
+}
+
+body{
+    background-color: #2b2922;
+    color: #fff;
+}
+
+.list-item{
+list-style: none;
+display: inline;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.list{
+    position: relative;
+    top: -53px;
+    left: 529px;
+    right: 100px;
+    color: #bbbab7;
+}
+
+.navbar img{
+    margin: 10px 50px;
+  }
+
+.list-item:hover{
+    color: #e4e3e1;
+    font-weight: bold;
+    font-family: "Noto Sans";
+}
+
+.button-small{
+    position: relative;
+    top: -86px;
+    left: 1088px;
+    right: 91px;
+    border-color: #ad9d3e;
+    font-family: "Noto Sans";
+    color: #ad9d3e;
+    background-color: transparent;
+    padding: 11px 41px;
+    border-radius: 8px;
+    font-weight: unset;
+}
+
+.hero-heading{
+    display: inline-block;
+    font-size: 63px;
+    text-align: left;
+    height: 50%;
+    width: 40%;    
+    padding-left: 40px;
+
+}
+
+.line-large{
+    
+        color: #a2a19e;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: lighter;
+        font-size: 20px;
+        display: inline-block;
+        height: 80px;
+        width: 32%;
+        position: relative;
+        float: right;
+        right: 9%;
+        top: -7.5em;
+        line-height: 30px;
+    }
+
+.mallet img{
+    height: 400px;
+    width: 100%;
+    position: relative;
+    left: 0%;
+    bottom: 4em;
+
+}
